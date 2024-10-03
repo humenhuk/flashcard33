@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'aPython?',
-    'O Python é uma linguagem de programação'
+    'famosos'
+    'qual doença o cantor Fred Mercury morreu?'
+    'AIDS'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'famosos',
+    'Quem e considerado a rainha do POP?',
+    'Madona'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'famosos',
+    'Qual jogador brasileiro foi preso no Paraguai em 20 de Março em 2020?',
+    'Ronaldinho Gaucho'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'famosos',
+    'Qual o album mais vendido do Michael Jackson?',
+    'thrilher'   
 )
